@@ -10,7 +10,7 @@ rand="0.3.13"
 abomonation = "0.7"
 abomonation_derive = "0.5"
 #timely = "0.7"
-timely = { workspace = true }
-differential-dataflow = { path = "../" }
+timely-master = { workspace = true }
+differential-dataflow-master = { path = "../" }
 graph_map = { git = "https://github.com/frankmcsherry/graph-map" }
 serde = { version = "1.0.190", features = ["derive"] }

@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Frank McSherry <fmcsherry@me.com>"]
 edition = "2021"
 
-[dependencies.differential-dataflow]
+[dependencies.differential-dataflow-master]
 path="../"
 
 [dependencies]

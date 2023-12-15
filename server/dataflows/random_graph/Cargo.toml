@@ -5,8 +5,8 @@ authors = ["Frank McSherry <fmcsherry@me.com>"]
 edition = "2021"
 
 [dependencies]
-timely = {workspace = true}
-differential-dataflow = { path = "../../../" }
+timely-master = {workspace = true}
+differential-dataflow-master = { path = "../../../" }
 dd_server = { path = "../../" }
 rand="0.3.13"
 

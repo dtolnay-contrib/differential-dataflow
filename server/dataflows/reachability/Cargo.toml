@@ -5,7 +5,7 @@ authors = ["Frank McSherry <fmcsherry@me.com>"]
 edition = "2021"
 
 [dependencies]
-differential-dataflow = { path = "../../../" }
+differential-dataflow-master = { path = "../../../" }
 dd_server = { path = "../../" }
 
 [lib]
